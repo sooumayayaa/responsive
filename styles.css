@@ -1,0 +1,17 @@
+html{
+    background-color: rgba(7, 34, 41, 0.602);
+}
+h1 { 
+    color:rgb(12, 40, 76);
+}
+h3{
+    color:rgb(12, 40, 76);
+}
+body { 
+    color: rgb(12, 40, 76);
+    margin-top:5%;
+    margin-bottom:5%;
+    margin-left:13%;
+    margin-right:13%;
+    padding:3%;}
+.topRight {margin-left:5%;}
